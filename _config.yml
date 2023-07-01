@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "John Gallias"
   avatar           : "/assets/john-gallias-bio-photo.jpg"
-  bio              : "An educated, experienced, and approachable information technology administration professional."
-  location         : "Oakland, CA"
+  bio              : 
+  location         : 
   email            : 
   links:
     - label: "Email"
@@ -115,7 +115,7 @@ author:
       url: "mailto:john@johngallias.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "/"
+      # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
