@@ -108,7 +108,7 @@ author:
   avatar           : "/assets/john-gallias-bio-photo.jpg"
   bio              : "An educated, experienced, and approachable information technology administration professional."
   location         : "Oakland, CA"
-  email            :
+  email            : "john@johngallias.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -118,29 +118,29 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/JohnGallias"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/jgallias"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/jgallias/"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/JohnGallias"
+      # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/jgallias"
+      # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
