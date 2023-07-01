@@ -108,7 +108,7 @@ author:
   avatar           : "/assets/john-gallias-bio-photo.jpg"
   bio              : "An educated, experienced, and approachable information technology administration professional."
   location         : "Oakland, CA"
-  email            : ""
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
