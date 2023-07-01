@@ -110,7 +110,7 @@ author:
   location         : 
   email            : 
   links:
-    - label: "Email"
+    - label: "john@johngallias.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:john@johngallias.com"
     - label: "Website"
