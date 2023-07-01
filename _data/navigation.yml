@@ -1,5 +1,13 @@
 # main links
 main:
+  - title: "Summary"
+    url: #SUMMARY
+  - title: "Education"
+    url: #EDUCATION
+  - title: "Experience"
+    url: #EXPERIENCE
+  - title: "Skills"
+    url: #SKILLS
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
