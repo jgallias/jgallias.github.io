@@ -115,7 +115,7 @@ author:
       # url: 
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://johngallias.com"
+      url: "/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
