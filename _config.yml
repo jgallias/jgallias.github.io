@@ -115,10 +115,7 @@ author:
       # url: 
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/JohnGallias"
+      url: "https://johngallias.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -127,10 +124,16 @@ author:
       url: "https://github.com/jgallias"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/jgallias/"
+      url: "https://instagram.com/jgallias"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jgallias"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://ioc.exchange/@jgallias"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/JohnGallias"
 
 # Site Footer
 footer:
