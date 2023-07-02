@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/jgallias
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://johngallias.com
+  * I am jgallias (https://keybase.io/jgallias) on keybase.
+  * I have a public key with fingerprint A3E6 B0EB 5CCD EAD1 72F4  BB1A A0E9 C319 5DC8 E86C
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "a3e6b0eb5ccdead172f4bb1aa0e9c3195dc8e86c",
+            "host": "keybase.io",
+            "key_id": "a0e9c3195dc8e86c",
+            "kid": "010118e25f87f78887ae70769ad467717ab98c66316deb2d1cc14e142c76200f17f80a",
+            "uid": "e524c62c07ac58965037daa5bf0cb019",
+            "username": "jgallias"
+        },
+        "service": {
+            "hostname": "johngallias.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1424901839,
+    "expire_in": 157680000,
+    "prev": "47264eb9273555b8c8f759e41d30248a2a2726b0b971298dd679657873002984",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.7
+Comment: https://keybase.io/crypto
+
+yMM6AnicZZJrTBRXFMcXCoTnovSDxSKUsWJtKMzMzsy9s2JQVLRCQhprqRRY5nGX
+nbLsrLvLwkqwphWLYLUYooBkayg0WmINGKRUQKjUYPDRUKAtKQ8plgUTk2KM4iJ2
+huin3i8355zf+d/7Pzn9Ya9pgn3OzV2PzBnwmH0G+3YUaT58mHq3FONl0YXpS7EC
+tHIZJUs+slltksWB6TFOhxgeRzwtCCLiRAKQRornCY7DESvoCJYWBYggI2DxmEm2
+qx2KDM/ZUYIkKzklMEiiqvN/vmClgBM4QUBE0kYIjABCCDgEcMCwnEgxABCA41ko
+MIyOYETEkyIhCASFCIoUAEPiuJEARohzilzRihyiSUpgSAEHnEBDlqFxHRA5juaN
+uMDjBKuCdmSzcIVIoT/N58xmibNjZfGYknVKAlJHoDp5Rcgmy0soQZALlXarTXbI
+gmxWiiaHw2rXq80Ol1WlixFveKlj4CWLqIxS6XAim12SLZieUEjBIanCigGKxQmo
+Y+MxVGKVbMggqQQNGIgrR30HORVJCpAMhXiWBDqapnkoQCOgWUQRog4nKciRHKkQ
+PM6zgCBZKIoMUFwDCHQ4rsQUpjo7YJExPa18k8tXJO1SvoVzFNkQVvZzX7afxidY
+E+Dvqy6DJjho1asVad8R/mLnY4TE5OVrnrqN24OGPnHEXZbFbD5lMPmjrJm63qiY
+xKrisgMDJ2ceXhr+41Gsf3dIqfVI83TdqumMp9szM9k7tnlxoldX5wzMazAm0cnR
+Y1XfRI4xaYHs4I1qU+Pw1nRPysfTsenTjbuenEv7e3f/crghJX1p4fSjmJ6D1oa2
+VLLS78zqfXla14UrgzkmNwZuZcTXF5RuO+Tb/r4z6YbXHY9dL9/0hc+Tlo7Vf56Z
+90y5KiMy0ocilhsyAurf8CZobSUtcxX728ImB5arJ8u7tUeaE9enXG6l3OD1qeMz
+S57I7s8Koi4u/lobXeVNuN+qzRiP8bMXB43f++F5X/bpW5bcX4KaF3o26LX+3snM
+MM+mU+MB2kIe3fk9tuPNzPmu2S2jCSdHa7fUELcfhMJRdmIktb36vvv4T3MXrqzZ
+fZ4gOnKz1t4LzQvfG9WwkHs47tgsKHlaExN8NHrN0jstJwrzR3KaX3w1MuENr9f/
+6Br/Gg60V79dWn6187ErruvQ5xtOVFxaHvn2WmdS7K7verL4iLaKZ01TXftDF5fW
+zcLhvxbLhx6Yzc9C0hs3prjPvkuNkWkGc21v/2a956Zx/dqbbTUt0kJW+9ajeyub
+DFejzvcUBX7va9kc89uXF8f2zbUYcrueT6HDt/8N2QML1023Nrn+udt5kH/vg2On
+3kqc5FDntv8AebOyGA==
+=475j
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jgallias
+
+==================================================================
